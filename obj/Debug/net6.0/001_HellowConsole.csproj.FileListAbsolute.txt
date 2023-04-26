@@ -1,0 +1,15 @@
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.csproj.AssemblyReference.cache
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.AssemblyInfoInputs.cache
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.AssemblyInfo.cs
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.csproj.CoreCompileInputs.cache
+C:\Users\specx\git\ex\001_HellowConsole\bin\Debug\net6.0\001_HellowConsole.exe
+C:\Users\specx\git\ex\001_HellowConsole\bin\Debug\net6.0\001_HellowConsole.deps.json
+C:\Users\specx\git\ex\001_HellowConsole\bin\Debug\net6.0\001_HellowConsole.runtimeconfig.json
+C:\Users\specx\git\ex\001_HellowConsole\bin\Debug\net6.0\001_HellowConsole.dll
+C:\Users\specx\git\ex\001_HellowConsole\bin\Debug\net6.0\001_HellowConsole.pdb
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.dll
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\refint\001_HellowConsole.dll
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.pdb
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\001_HellowConsole.genruntimeconfig.cache
+C:\Users\specx\git\ex\001_HellowConsole\obj\Debug\net6.0\ref\001_HellowConsole.dll
